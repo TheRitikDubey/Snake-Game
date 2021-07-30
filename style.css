@@ -40,8 +40,8 @@
  }
  #scorebox{
      position: absolute;
-     top: 10px;
-     left: 30cm;
+     top: 8px;
+     left: 27cm;
      font-size: 35px;
      border: 1px solid black;
      background:linear-gradient(pink , red);
@@ -50,8 +50,8 @@
  }
  #highscore{
      position: absolute;
-     left:30cm;
-     top: 40px;
+     left:27cm;
+     top: 77px;
      font-size: 35px;
      border: 2px solid black;
      background: linear-gradient(blue,orange);
